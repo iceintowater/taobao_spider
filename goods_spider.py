@@ -15,6 +15,10 @@ from taobao_login import TaoBaoLogin
 关注微信公众号「裸睡的猪」与猪哥联系
 
 @Author  :   猪哥,
+
+重试机制
+ip池子
+超时机制
 """
 
 # 关闭警告
